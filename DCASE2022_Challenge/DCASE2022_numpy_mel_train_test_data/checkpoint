@@ -1,0 +1,2 @@
+model_checkpoint_path: "best_weights_dcase2022.h5py"
+all_model_checkpoint_paths: "best_weights_dcase2022.h5py"
